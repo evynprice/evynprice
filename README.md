@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-I'm a problem solver, developer, and systems administrator. I have a passion for automation and a background in cybersecurity, with a focus on OT systems. 
+I'm a systems administrator with a passion for automation and a background in cybersecurity. 
 
 * 🌱 Learning more about Kubernetes, Ansible, and Linux Administration.
 * 📫 Can be reached via Discord at **evynprice**.
